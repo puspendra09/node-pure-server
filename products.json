@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "productName": "Abc",
+        "productType": "grocery",
+        "description": "description",
+        "rate": 30
+    },
+    {
+        "id": 2,
+        "productName": "pqr",
+        "productType": "electronic",
+        "description": "description",
+        "rate": 10000
+    },
+    {
+        "id": 3,
+        "productName": "smartPhone",
+        "productType": "electronic",
+        "description": "description",
+        "rate": 10000
+    }
+]
